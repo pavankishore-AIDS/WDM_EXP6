@@ -17,7 +17,7 @@ sklearn to demonstrate Information Retrieval using the Vector Space Model.
 ### Program:
 
 ```
-Developed By: Pavan ishore.M
+Developed By: Pavan kishore.M
 Reg No: 212221230076
 ```
 ```python
